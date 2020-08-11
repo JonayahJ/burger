@@ -1,3 +1,7 @@
-INSERT INTO burgers (burgers_name, devoured) VALUES ("Bleu Cheese Deluxe", true);
-INSERT INTO burgers (burgers_name, devoured) VALUES ("Bacon Cheeseburger with Carmelized Onions", false);
-INSERT INTO burgers (burgers_name, devoured) VALUES ("Impossilbe Burger", true);
+INSERT INTO burgers (name, ingredients) VALUES ("Bleu Cheese Deluxe", "Angus beef, romaine lettuce, sliced tomatoes, and blue cheese crumbs on a brioche bun");
+INSERT INTO burgers (name, ingredients) VALUES ("Bacon Cheeseburger with Carmelized Onions", "Angus beef, sharp cheddar cheese, romaine lettuce, sliced tomatoes, sauteed onions, and pickles on a brioche bun ");
+INSERT INTO burgers (name, ingredients) VALUES ("Impossilbe Burger", "Plant-based patty, romaine lettuce, sliced tomatoes, sauteed onions, and pickles on a brioche bun ");
+INSERT INTO burgers (name, ingredients) VALUES ("Double-Stack Cheddar Burger", "Two patties of angus beef, melted swiss cheese, romaine lettuce, sliced tomatoes, sauteed onions, and pickles on a brioche bun ");
+INSERT INTO burgers (name, ingredients) VALUES ("Black Bean Burger Wrap", "Black bean patty, carmelized onions, sauteed spinach in a romaine lettuce wrap");
+INSERT INTO burgers (name, ingredients) VALUES ("Spricy Chicken Burger", "Crispy fried chicken breast, asiago cheese, romaine lettuce, sliced tomatoes, sauteed onions, special top-secret sauce, and pickles on a brioche bun ");
+INSERT INTO burgers (name, ingredients) VALUES ("Veggie Burger", "Veggie patty, romaine lettuce, sliced tomatoes, sauteed onions, and pickles on a brioche bun ");
